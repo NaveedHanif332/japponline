@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "737651766280",
+    "firebase_url": "https://japp-classifieds.firebaseio.com",
+    "project_id": "japp-classifieds",
+    "storage_bucket": "japp-classifieds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737651766280:android:c9dbeebe2feb0c7d",
+        "android_client_info": {
+          "package_name": "com.japp.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737651766280-0vdk95hroe758h2qsvehpnhouf53ptpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.japp.online",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "737651766280-ubt19tpkpm2gstceq11p9d1fvo9mdql0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.japp.online",
+            "certificate_hash": "f8542b2dd517e5b92f634a3f492ca71a5ec7fb16"
+          }
+        },
+        {
+          "client_id": "737651766280-ehkma06h4m98468mpa7tm7ar3mles8ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.japp.online",
+            "certificate_hash": "9aae0b7670999f4b9df45dd97093396034b00881"
+          }
+        },
+        {
+          "client_id": "737651766280-2kqdhcgq0fk6qiahrc0sbq0golr1g9oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs1vtKyXDvDMQze4rQU9EAyy7zEdH1jTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737651766280-4elmo9bgkk283grop032mm8tfm4so6n5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737651766280-2l74g4hjbsvaknqvmc92rdt0s4o03fvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.japp.japp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

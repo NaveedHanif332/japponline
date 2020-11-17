@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.opensooq.supernova:gligar:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/c06671e54a4d23c24ac35c68a32980ff/jetified-gligar-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/c06671e54a4d23c24ac35c68a32980ff/jetified-gligar-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/c06671e54a4d23c24ac35c68a32980ff/jetified-gligar-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.opensooq.supernova/gligar/1.1.0/448afabf5703eb3b36be2ab4e04270c9f3f5829d/gligar-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.opensooq.supernova/gligar/1.1.0/d26dca958f01bbfa6a824e9148dfd26a6502269f/gligar-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:braintree:2.18.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/40a23b27e1ddb920361a212c5e9d4e55/jetified-braintree-2.18.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/40a23b27e1ddb920361a212c5e9d4e55/jetified-braintree-2.18.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/40a23b27e1ddb920361a212c5e9d4e55/jetified-braintree-2.18.1/res" />
+      <root url="file://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/40a23b27e1ddb920361a212c5e9d4e55/jetified-braintree-2.18.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/2.18.1/7e75d031446fc431f1ffd413c845ef370a04e949/braintree-2.18.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/2.18.1/c87f63b7093388c1bbc79f30cf83a3f975b5c0d/braintree-2.18.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
