@@ -189,8 +189,6 @@ import com.japp.online.utills.Network.RestService;
 import com.japp.online.utills.RuntimePermissionHelper;
 import com.japp.online.utills.SettingsMain;
 import com.japp.online.utills.UrlController;
-
-
 public class AddNewAdPost extends AppCompatActivity implements OnMapReadyCallback,
         GoogleApiClient.OnConnectionFailedListener, GoogleApiClient.ConnectionCallbacks, GoogleMap.OnMyLocationButtonClickListener,
         GoogleMap.OnMyLocationClickListener, AdapterView.OnItemClickListener,
@@ -2563,14 +2561,21 @@ public class AddNewAdPost extends AppCompatActivity implements OnMapReadyCallbac
                         page2Layout.addView(cardView);
                     }
                 }
-
             }
-
             JSONObject jsonObj = jsonObject.getJSONObject("data").getJSONObject("profile");
             textViewUserName.setText(jsonObj.getJSONObject("name").getString("title"));
             editTextUserName.setText(jsonObj.getJSONObject("name").getString("values"));
             textViewUserPhone.setText(jsonObj.getJSONObject("phone").getString("title"));
-            editTextUserPhone.setText(jsonObj.getJSONObject("phone").getString("values"));
+            String strphone=jsonObj.getJSONObject("phone").getString("values");
+            if(strphone.length()<11)
+            {
+                editTextUserPhone.setText("1876XXXXXXX");
+                //Toast.makeText(context, "Please! Enter Valid Phone number with Country Code ", Toast.LENGTH_LONG).show();
+            }else
+            {
+                editTextUserPhone.setText(strphone);
+            }
+
             if (!jsonObj.getBoolean("phone_editable")) {
                 editTextUserPhone.setEnabled(false);
             }
